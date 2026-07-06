@@ -13,4 +13,4 @@ Generate coherent and contextually relevant text using the GPT-2 pre-trained lan
 - requirements.txt
 
 ## Author
-Raj Tomar
+Rajyavardhan Singh Tomar
