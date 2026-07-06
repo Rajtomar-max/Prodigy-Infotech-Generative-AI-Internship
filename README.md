@@ -22,4 +22,4 @@ Develop a text generation application using the GPT-2 pre-trained language model
 
 ## Author
 
-Raj Tomar
+Rajyavardhan Singh Tomar
