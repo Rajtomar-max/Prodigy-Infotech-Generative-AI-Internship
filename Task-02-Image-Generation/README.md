@@ -12,4 +12,4 @@ Generate images from text prompts using a pre-trained Stable Diffusion model.
 
 ## Author
 
-Raj Tomar
+Rajyavardhan Singh Tomar
