@@ -1,1 +1,1 @@
-Generated text will be saved here.
+Generated text will appear here after running the program.
